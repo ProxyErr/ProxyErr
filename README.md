@@ -8,6 +8,7 @@
 >    7. [x] SQLite / MySQL / SQL Server (SSMS)
 >    8. [x] Bootstrap
 >    9. [x] MongoDB
+>    10. [x]Azure / Resource Groups / Functions / Blob Storage / Web APPS / Static Web Apps 
 
 ╭(◕◕ ◉෴◉ ◕◕)╮
 
