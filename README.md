@@ -51,8 +51,7 @@ mindmap
       JavaScript
       JQuery
       Bootstrap
-      CSS
-      HTML
+      CSS/HTML
     Databases
       SQL Server
       SQLite
