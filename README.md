@@ -5,7 +5,7 @@
 
 ---
 
-## ✅ Languages & Frameworks
+## Languages & Frameworks
 
 - [x] **.NET / ASP.NET**
 - [x] **Blazor (WASM / Server)**
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Databases
+## Databases
 
 - [x] **SQL Server (SSMS)**
 - [x] **SQLite**
@@ -24,7 +24,7 @@
 
 ---
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 - [x] **Azure**  
   - Resource Groups  
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 Tech Stack
+## Tech Stack
 
 ```mermaid
 mindmap
