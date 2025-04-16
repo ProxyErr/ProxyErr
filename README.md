@@ -1,4 +1,4 @@
-# 🧠 Tech Stack — Chris Baker
+#  Chris Baker
 
 > Passionate Full Stack Developer focused on .NET technologies, Blazor, modern web tooling, and cloud-based architecture.  
 > Always learning. Always building. ╭(◕◕ ◉෴◉ ◕◕)╮
@@ -35,40 +35,33 @@
 
 ---
 
-## 📊 My Stack
+## 📊 Tech Stack
 
-### 🧩 .NET Ecosystem
 ```mermaid
-graph TD
-  A[.NET] --> B[ASP.NET MVC]
-  A --> C[Blazor]
-  C --> C1[Blazor WASM]
-  C --> C2[Blazor Server]
-  A --> D[Entity Framework]
-  A --> E[SignalR]
-```
-### 🎨 Frontend Tech
-```mermaid
-graph TD
-  F[Frontend] --> G[JavaScript]
-  F --> H[JQuery]
-  F --> I[Bootstrap]
-```
-### 🧱 Databases
-```mermaid
-graph TD
-  J[Databases] --> K[SQL Server]
-  J --> L[SQLite]
-  J --> M[MySQL]
-  J --> N[MongoDB]
-```
-### ☁️ Azure Cloud Services
-```mermaid
-graph TD
-  O[Azure] --> P[Resource Groups]
-  O --> Q[Functions]
-  O --> R[Blob Storage]
-  O --> S[Web Apps]
-  O --> T[Static Web Apps]
-```
-
+mindmap
+  root((Tech Stack))
+    .NET
+      Blazor
+        WASM
+        Server
+      MVC
+      Entity Framework
+      SignalR
+    Frontend
+      JavaScript
+      JQuery
+      Bootstrap
+      CSS
+      HTML
+    Databases
+      SQL Server
+      SQLite
+      MySQL
+      MongoDB
+    Azure
+      Resource Groups
+      Functions
+      Blob Storage
+      Web Apps
+      Static Web Apps
+ ```
