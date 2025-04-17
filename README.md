@@ -35,7 +35,7 @@
 
 ---
 
-## Tech Stack
+## Mind Map
 
 ![Tech Stack Diagram](./drawio/techstack_01.drawio.png)
 
