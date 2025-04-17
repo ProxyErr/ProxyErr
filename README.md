@@ -37,30 +37,5 @@
 
 ## Tech Stack
 
-```mermaid
-mindmap
-  root((Tech Stack))
-    .NET
-      Blazor
-        WASM
-        Server
-      MVC
-      Entity Framework
-      SignalR
-    Frontend
-      JavaScript
-      JQuery
-      Bootstrap
-      CSS/HTML
-    Databases
-      SQL Server
-      SQLite
-      MySQL
-      MongoDB
-    Azure
-      Resource Groups
-      Functions
-      Blob Storage
-      Web Apps
-      Static Web Apps
- ```
+![Tech Stack Diagram](./drawio/techstack_01.drawio.png)
+
