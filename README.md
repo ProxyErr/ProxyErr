@@ -1,5 +1,3 @@
-#  Chris Baker
-
 > Full Stack Developer focused on .NET technologies, Blazor, modern web tooling, and cloud-based architecture.  
 > Always learning. Always building. ╭(◕◕ ◉෴◉ ◕◕)╮
 
