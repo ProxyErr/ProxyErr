@@ -33,5 +33,5 @@
 
 ---
 
-![Tech Stack Diagram](./drawio/techstack_01.drawio.png)
+![Tech Stack Diagram](./drawio/techstack_03.drawio.png)
 
