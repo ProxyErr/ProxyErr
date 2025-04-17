@@ -1,6 +1,6 @@
 #  Chris Baker
 
-> Passionate Full Stack Developer focused on .NET technologies, Blazor, modern web tooling, and cloud-based architecture.  
+> Full Stack Developer focused on .NET technologies, Blazor, modern web tooling, and cloud-based architecture.  
 > Always learning. Always building. ╭(◕◕ ◉෴◉ ◕◕)╮
 
 ---
@@ -34,8 +34,6 @@
   - Static Web Apps
 
 ---
-
-## Mind Map
 
 ![Tech Stack Diagram](./drawio/techstack_01.drawio.png)
 
