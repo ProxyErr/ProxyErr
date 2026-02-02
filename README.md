@@ -1,34 +1,58 @@
-> Full Stack Developer focused on .NET technologies, Blazor, modern web tooling, and cloud-based architecture.  
-> Always learning. Always building. ╭(◕◕ ◉෴◉ ◕◕)╮
+## C# / .NET Software Engineer  
+Desktop, Systems, and Cloud Applications
+
+C#/.NET software engineer focused on building desktop applications, internal engineering tools, 
+systems utilities, and cloud-backed services. I enjoy working close to real-world problems—automation, 
+data aggregation, and operational tooling—while applying clean architecture, testing, and CI/CD practices.
 
 ---
 
-## Languages & Frameworks
+## Highlighted Projects
 
-- [x] **.NET / ASP.NET**
-- [x] **Blazor (WASM / Server)**
-- [x] **MVC (ASP.NET Core)**
-- [x] **JavaScript / JQuery**
-- [x] **Bootstrap**
+### 🔥 SCFire + WildFireAPI  
+**Blazor WebAssembly • .NET • Azure Functions • REST**
 
----
-
-## Databases
-
-- [x] **SQL Server (SSMS)**
-- [x] **SQLite**
-- [x] **MySQL**
-- [x] **MongoDB**
+Full-stack wildfire monitoring system for South Carolina.  
+Built a Blazor WASM dashboard backed by a serverless Azure Functions API that aggregates and processes
+satellite fire data, air quality, and weather information from NASA, EPA, and NOAA.
 
 ---
 
-## Cloud & DevOps
+### 🖥️ Cluster Sanity Checker  
+**.NET MAUI • C# • Linux**
 
-- [x] **Azure**  
-  - Resource Groups  
-  - Functions  
-  - Blob Storage  
-  - Web Apps  
-  - Static Web Apps
+Cross-platform utility for inspecting and validating the configuration and health of Ubuntu server clusters.  
+Aggregates hardware and OS data, caches results, and flags configuration inconsistencies through a clean MAUI UI.
 
+---
 
+### 🧰 Flash Drive Toolbox  
+**C# • WPF • WinForms • PowerShell**
+
+Desktop utility designed for non-technical users to retrieve system and hardware information.  
+Automates PowerShell-based diagnostics behind a simple C# interface.
+
+---
+
+## Tech Stack
+
+### Languages & Frameworks
+- **C# / .NET**
+- **ASP.NET (MVC, Web API, Blazor)**
+- **WPF, Windows Forms, MAUI**
+- **JavaScript / jQuery**
+
+### Data
+- **SQL Server**
+- **SQLite**
+- **MySQL**
+- **Entity Framework Core**
+- **Dapper**
+
+### Cloud & Tooling
+- **Azure** (Functions, App Services)
+- **CI/CD Pipelines**
+- **GitHub & GitHub Actions**
+- **PowerShell**
+- **Postman**
+- **Visual Studio**
