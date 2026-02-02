@@ -31,7 +31,4 @@
   - Web Apps  
   - Static Web Apps
 
----
-
-![Tech Stack Diagram](./drawio/techstack_03.drawio.png)
 
