@@ -2,8 +2,8 @@
 Desktop, Systems, and Cloud Applications
 
 C#/.NET software engineer focused on building desktop applications, internal engineering tools, 
-systems utilities, and cloud-backed services. I enjoy working close to real-world problems—automation, 
-data aggregation, and operational tooling—while applying clean architecture, testing, and CI/CD practices.
+systems utilities, and cloud-backed services. I enjoy working close to real-world problems, automation, 
+data aggregation, and operational tooling; while applying clean architecture, testing, and CI/CD practices.
 
 ---
 
